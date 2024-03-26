@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "mongoose": "^5.5.14",
+    "express": "^4.19.2",
+    "mongoose": "^5.13.20",
     "multer": "^1.4.1",
-    "sharp": "^0.22.1",
+    "sharp": "^0.32.6",
     "socket.io": "^2.2.0",
     "standard": "^12.0.1"
   },
